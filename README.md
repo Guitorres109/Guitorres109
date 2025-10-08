@@ -68,3 +68,4 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-torres-063a362b7/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/guibtorres)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guitorres109)
+[![X(Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://github.com/Guitorres109)
