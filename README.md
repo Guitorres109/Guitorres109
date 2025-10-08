@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Guilherme Torres
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-end, Back.
-
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-end, Back-end, CyberSegurança e IOT.
+[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ---
 
 ## 🎯 Tecnologias que estou aprendendo
