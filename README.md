@@ -43,10 +43,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **Sesi Guarulhos e no Senai Guarulhos**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **Ser desenvolvedor full-stack**
+- 💻 Estou aprendendo **GitHub , programação e criação de projetos web e mobile .**
+- 🎯 Meu objetivo é ser **desenvolvedor full-stack**
 - 📚 Gosto de aprender sobre **Tecnologia e programação**
-- ✝ **Não to mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares.** (Josué 1:9)
+- ✝ **"Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar"** (Josué 1:9)
 
 ---
 
