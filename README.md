@@ -60,7 +60,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎯 Meu objetivo é ser **desenvolvedor full-stack**
 - 📚 Gosto de aprender sobre **Tecnologia e programação**
 - ✝ **"Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar"** (Josué 1:9)
-- 🇻🇦 **Não há lugar para a sabedoria onde não há paciência.**
+- 🇻🇦 **"Não há lugar para a sabedoria onde não há paciência."**(Santo Agostinho)
 ---
 
 ## 📫 Como me encontrar
